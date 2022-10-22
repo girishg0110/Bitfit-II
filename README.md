@@ -1,18 +1,18 @@
-# Android Project 6 - *Name of App Here*
+# Android Project 6 - *Bitfit II*
 
-Submitted by: **Your Name Here**
+Submitted by: **Girish Ganesan**
 
-**Name of your app** is a health metrics app that allows users to track ... [TODO] 
+**Bitfit II** is a health metrics app that allows users to track ... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **Use at least 2 Fragments**
+- [Y] **Use at least 2 Fragments**
 - [ ] **Create a new dashboard fragment where users can see a summary of their entered data**
-- [ ] **Use one of the Navigation UI Views (BottomNavigation, Drawer Layout, Top Bar) to move between the fragments**
+- [Y] **Use one of the Navigation UI Views (BottomNavigation, Drawer Layout, Top Bar) to move between the fragments**
 
 The following **optional** features are implemented:
 
@@ -27,10 +27,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/szE2qke.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ScreenToGif
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -42,7 +42,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Girish Ganesan]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
